@@ -3,7 +3,7 @@
 
 ### Stellen Sie zunächst sicher, dass Ihr APT auf dem neuesten Stand ist. Geben Sie die folgenden Befehle in das Terminalfenster auf Ihrem Ubuntu-Desktop ein.
 ```bash
-sudo apt update und sudo apt upgrade
+sudo apt update && sudo apt upgrade
 ```
 
 ### Um den ZOOM-Client zu installieren, verwenden Sie den folgenden Befehl in Ihrem Terminalfenster. Da für die Installation Root-Zugriff erforderlich ist, werden Sie zur Eingabe eines Kennworts aufgefordert.
