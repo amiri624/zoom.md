@@ -2,6 +2,7 @@
 ## Methode 1: Installation von Zoom auf Ubuntu über Terminal
 
 ### Stellen Sie zunächst sicher, dass Ihr APT auf dem neuesten Stand ist. Geben Sie die folgenden Befehle in das Terminalfenster auf Ihrem Ubuntu-Desktop ein.
+
 ```bash
 sudo apt update
 sudo apt upgrade
@@ -14,13 +15,11 @@ sudo apt install snapd
 ```bash
 sudo snap installiere Zoom-Client
 ```
-
 ### Um ZOOM zu verwenden , geben Sie den folgenden Befehl in Ihrem Terminalfenster ein.
 ```bash
 Zoom-Client
 ```
 ## Methode 2: Verwenden des Ubuntu Software Center
-
 ### Schritt 1: Öffnen Sie zuerst das Software Center
 #### Klicken Sie auf dem Desktop auf Aktivitäten, geben Sie dann „Software“ in das Suchfeld ein und klicken Sie darauf, wie im Screenshot zu sehen.
 
