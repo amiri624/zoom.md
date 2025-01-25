@@ -1,5 +1,5 @@
 # Wie installiere ich Zoom auf Ubuntu?
-## Methode 1: Installation von Zoom auf Ubuntu über Terminal
+### Methode 1: Installation von Zoom auf Ubuntu über Terminal
 
 ### Stellen Sie zunächst sicher, dass Ihr APT auf dem neuesten Stand ist. Geben Sie die folgenden Befehle in das Terminalfenster auf Ihrem Ubuntu-Desktop ein.
 
