@@ -1,3 +1,4 @@
+
 # Wie installiere ich Zoom auf Ubuntu?
 ### Methode 1: Installation von Zoom auf Ubuntu über Terminal
 
