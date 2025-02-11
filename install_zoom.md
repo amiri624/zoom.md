@@ -4,20 +4,22 @@
 ### Stellen Sie zunächst sicher, dass Ihr APT auf dem neuesten Stand ist. Geben Sie die folgenden Befehle in das Terminalfenster auf Ihrem Ubuntu-Desktop ein.
 
 ```bash
-sudo apt update
-sudo apt upgrade
+$ sudo apt update
+$ sudo apt upgrade
 ```
 ```bash
-sudo apt install snapd
+$ wget https://zoom.us/client/latest/zoom_amd64.deb
+$ sudo apt install ./zoom_amd64.deb
+$ sudo apt --fix-broken install
 ```
 
 ### Um den ZOOM-Client zu installieren, verwenden Sie den folgenden Befehl in Ihrem Terminalfenster. Da für die Installation Root-Zugriff erforderlich ist, werden Sie zur Eingabe eines Kennworts aufgefordert.
 ```bash
-sudo snap installiere Zoom-Client
+$ sudo snap installiere Zoom-Client
 ```
 ### Um ZOOM zu verwenden , geben Sie den folgenden Befehl in Ihrem Terminalfenster ein.
 ```bash
-Zoom-Client
+$ Zoom
 ```
 ## Methode 2: Verwenden des Ubuntu Software Center
 ### Schritt 1: Öffnen Sie zuerst das Software Center
